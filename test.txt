@@ -1,2 +1,4 @@
 Line from master 1
+Line from master 2
+Line from master 3
 Line from andrey 1
